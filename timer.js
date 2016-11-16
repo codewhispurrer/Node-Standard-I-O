@@ -1,3 +1,7 @@
+// README: Example of standard i/o process with interval timer in Node
+// Execute within the terminal:
+// $ node timer
+
 var question = "Set timer for how many minutes? ";
 process.stdout.write(`${question}`);
 
